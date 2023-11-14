@@ -4,7 +4,7 @@ const projectData = [
     projectDate: "November 2023",
     projectDescription: "A portfolio of mine packaged as an NPM module.",
     tags: ["CLI", "portfolio", "developer", "dashboard"],
-    link: "#",
+    link: "https://www.npmjs.com/package/@logan1x/devdash-cli",
     repo: "https://github.com/Logan1x/DevDashCLI",
   },
   {
