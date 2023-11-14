@@ -1,23 +1,27 @@
 {
-	"name": "devdash-cli",
-	"version": "0.1.0",
-	"description": "A CLI portfolio for developers",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"bin": {
-		"devdash": "./index.js"
-	},
-	"keywords": [
-		"CLI",
-		"portfolio",
-		"developer",
-		"dashboard"
-	],
-	"author": "Khushal Sharma",
-	"license": "MIT",
-	"dependencies": {
-		"commander": "^7.2.0"
-	}
+  "name": "@logan1x/devdash-cli",
+  "version": "0.1.0",
+  "description": "A portfolio of Khushal packaged as an NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "devdash": "./index.js"
+  },
+  "keywords": [
+    "CLI",
+    "portfolio",
+    "developer",
+    "dashboard"
+  ],
+  "author": "Khushal Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Logan1x/DevDashCLI"
+  }
 }
