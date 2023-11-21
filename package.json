@@ -1,6 +1,6 @@
 {
   "name": "@logan1x/devdash-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A portfolio of Khushal packaged as an NPM module",
   "main": "index.js",
   "scripts": {

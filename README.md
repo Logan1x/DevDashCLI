@@ -5,7 +5,7 @@ A portfolio of mine packaged as an NPM module with a command-line interface (CLI
 ## Installation
 
 ```bash
-npm install -g devdash
+npm install -g @logan1x/devdash-cli
 ```
 
 ## Usage
@@ -16,7 +16,9 @@ To run the CLI, simply type the following command in your terminal:
 devdash
 ```
 
-For specific commands, type depending on your needs. Example for projects type:
+For specific commands, type depending on your needs.
+
+### Example for projects type:
 
 ```bash
 devdash projects
